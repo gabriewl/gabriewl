@@ -5,6 +5,9 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriewl.f7/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãogabrielferreiraleite/)
 
+Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci a programação e decidi seguir nesta área. Entrei no curso de Análise e Desenvolvimento de Sistemas e cada dia mais vou me aprofundando e me aperfeiçoando, atualmente sou Desenvolvedor Front-End mas minha intenção é me tornar um Full Stack.
+##
+
 ## TECNOLOGIAS 👨🏻‍💻
 
 <div style="display: inline_block">  <br/>
@@ -16,10 +19,6 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div> <br/>
 
-##
-### SOBRE MIM:
-
-Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci a programação e decidi seguir nesta área. Entrei no curso de Análise e Desenvolvimento de Sistemas e cada dia mais vou me aprofundando e me aperfeiçoando, atualmente sou Desenvolvedor Front-End mas minha intenção é me tornar um Full Stack.
 ##
 
 ### TECNOLOGIAS QUE ESTOU EVOLUINDO:
