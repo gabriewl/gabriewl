@@ -5,9 +5,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriewl.f7/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãogabrielferreiraleite/)
 
-![Gabriewl GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriewl&show_icons=true&theme=synthwave)
-
-## TECNOLOGIAS QUE UTILIZO ATUALMENTE 👨🏻‍💻
+## TECNOLOGIAS 👨🏻‍💻
 
 <div style="display: inline_block">  <br/>
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,6 +34,7 @@ Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci 
 <br/>
 <br/>
 
+![Gabriewl GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriewl&show_icons=true&theme=synthwave)
 
 ### TECNOLOGIAS QUE AINDA VOU APRENDER:
 
