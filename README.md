@@ -30,6 +30,7 @@ Eu comecei estudando Marketing Digital e ao longo do meus estudos conheci a prog
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img align="center" alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img align="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express-css&logoColor=white"/>
 <br/>
 <br/>
 
@@ -37,7 +38,7 @@ Eu comecei estudando Marketing Digital e ao longo do meus estudos conheci a prog
 ### TECNOLOGIAS QUE AINDA VOU APRENDER:
 
 <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt="MONGODB" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div> <br/>
 <br/>
 
