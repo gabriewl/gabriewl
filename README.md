@@ -21,24 +21,27 @@
 ##
 ### SOBRE MIM:
 
-Eu comecei estudando Marketing Digital e ao longo do meus estudos conheci a programação e decidi seguir nesta área. Entrei no curso de Análise e Desenvolvimento de Sistemas e cada dia mais vou me aprofundando e me aperfeiçoando, atualmente sou Desenvolvedor Front-End mas minha intenção é me tornar um Full Stack.
+Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci a programação e decidi seguir nesta área. Entrei no curso de Análise e Desenvolvimento de Sistemas e cada dia mais vou me aprofundando e me aperfeiçoando, atualmente sou Desenvolvedor Front-End mas minha intenção é me tornar um Full Stack.
 ##
 
 ### TECNOLOGIAS QUE ESTOU EVOLUINDO:
 
 <div style="display: inline_block">  <br/>
 <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img align="center" alt="REACT NATIVE" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="center" alt="EXPRESS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express-css&logoColor=white"/>
+<img align="center" alt="MATERIAL UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+
 <br/>
 <br/>
 
 
 ### TECNOLOGIAS QUE AINDA VOU APRENDER:
 
+<img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img align="center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="center" alt="AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div> <br/>
 <br/>
 
