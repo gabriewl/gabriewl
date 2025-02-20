@@ -34,8 +34,6 @@ Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci 
 <br/>
 <br/>
 
-![Gabriewl GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriewl&show_icons=true&theme=synthwave)
-
 ### TECNOLOGIAS QUE AINDA VOU APRENDER:
 
 <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -45,3 +43,6 @@ Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci 
 <br/>
 
 #
+
+<br/>
+![Gabriewl GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriewl&show_icons=true&theme=synthwave)
