@@ -1,11 +1,12 @@
 
-## OLÁ SOU O GABRIEL FERREIRA 👋
+## GABRIEL FERREIRA 🧑‍💻
+
+Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci a programação e decidi seguir nesta área. Entrei no curso de Análise e Desenvolvimento de Sistemas e cada dia mais vou me aprofundando e me aperfeiçoando, atualmente sou Desenvolvedor Front-End mas minha intenção é me tornar um Full Stack.
 
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabriewl)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriewl.f7/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joãogabrielferreiraleite/)
 
-Comecei minha carreira no Marketing Digital, e ao longo do meus estudos conheci a programação e decidi seguir nesta área. Entrei no curso de Análise e Desenvolvimento de Sistemas e cada dia mais vou me aprofundando e me aperfeiçoando, atualmente sou Desenvolvedor Front-End mas minha intenção é me tornar um Full Stack.
 ##
 
 ## TECNOLOGIAS 👨🏻‍💻
